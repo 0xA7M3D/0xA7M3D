@@ -1,7 +1,7 @@
 
 <h1 align="center">Hey What's Up?</h1>
 
-I'm __Ahmed__ from egypt here you can found some projects __professional__ inshallah :-)
+I'm __Ahmed__ full-stack developer from egypt here you can found some projects __professional__ inshallah :-)
 
 ----
 
